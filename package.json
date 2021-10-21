@@ -1,0 +1,53 @@
+{
+	"name": "html-json-highlight",
+	"description": "html-json-highlight",
+	"version": "1.0.6",
+	"author": {
+		"name": "lZiMUl",
+		"email": "AA2908554069@gmail.com",
+		"url": "https://b23.tv/vUMYbj"
+	},
+	"contributors": [
+		{
+			"name": "lZiMUl",
+			"email": "AA2908554069@gmail.com",
+			"url": "https://b23.tv/vUMYbj"
+		}
+	],
+	"maintainers": [
+		{
+			"name": "lZiMUl",
+			"email": "AA2908554069@gmail.com",
+			"url": "https://b23.tv/vUMYbj"
+		}
+	],
+	"homepage": "https://b23.tv/vUMYbj",
+	"main": "./srcs/app.js",
+	"type": "module",
+	"license": "Apache-2.0",
+	"scripts": {
+		"test": "node ./tests/index.js",
+		"build": "node ./builds/index.js"
+	},
+	"keywords": [
+		"lZiMUl",
+		"WebSite",
+		"JSON",
+		"Highlight",
+		"Koa"
+	],
+	"dependencies": {
+		"ini": "^2.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lZiMUl/web-basics-framework-template.git"
+	},
+	"bugs": {
+		"url": "https://github.com/lZiMUl/web-basics-framework-template/issues/",
+		"email": "AA2908554069@gmail.com"
+	},
+	"private": false,
+	"preferGlobal": true,
+	"deprecated": false
+}
