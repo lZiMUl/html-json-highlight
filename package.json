@@ -1,7 +1,7 @@
 {
 	"name": "html-json-highlight",
-	"description": "html-json-highlight",
-	"version": "1.0.7",
+	"description": "Html Json Highlight",
+	"version": "1.0.8",
 	"author": {
 		"name": "lZiMUl",
 		"email": "AA2908554069@gmail.com",
@@ -32,19 +32,22 @@
 	"keywords": [
 		"lZiMUl",
 		"WebSite",
-		"JSON",
+		"Json",
 		"Highlight",
-		"Koa"
+		"Koa",
+		"Express",
+		"Web",
+		"Http"
 	],
 	"dependencies": {
 		"ini": "^2.0.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/lZiMUl/web-basics-framework-template.git"
+		"url": "git+https://github.com/lZiMUl/html-json-highlight.git"
 	},
 	"bugs": {
-		"url": "https://github.com/lZiMUl/web-basics-framework-template/issues/",
+		"url": "https://github.com/lZiMUl/html-json-highlight/issues/",
 		"email": "AA2908554069@gmail.com"
 	},
 	"private": false,

@@ -1,4 +1,4 @@
-# Welcome to Web-Basics-Framework-Template
+# Welcome to Html Json Highlight
 
 ## Browser Support
 
