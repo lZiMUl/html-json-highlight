@@ -6,6 +6,6 @@
     "markdown.extension.preview.autoShowPreviewToSide": true,
     "prettier.vueIndentScriptAndStyle": true,
     "files.simpleDialog.enable": true,
-    "workbench.sideBar.location": "right",
+    "workbench.sideBar.location": "left",
     "editor.fontSize": 12
 }

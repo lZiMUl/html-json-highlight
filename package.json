@@ -1,7 +1,7 @@
 {
 	"name": "html-json-highlight",
 	"description": "Html Json Highlight",
-	"version": "1.0.8",
+	"version": "1.1.0",
 	"author": {
 		"name": "lZiMUl",
 		"email": "AA2908554069@gmail.com",
@@ -22,7 +22,7 @@
 		}
 	],
 	"homepage": "https://b23.tv/vUMYbj",
-	"main": "./srcs/app.js",
+	"main": "./src/app.js",
 	"type": "module",
 	"license": "Apache-2.0",
 	"scripts": {
